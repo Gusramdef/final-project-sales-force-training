@@ -1,6 +1,6 @@
 # Final Project - Sales Force Training
 
-## Deskripsi
+## Tujuan Proyek
 Analisis statistik untuk mengevaluasi dampak training terhadap performa sales berdasarkan data transaksi.
 
 ## Isi Proyek
@@ -15,3 +15,4 @@ Analisis statistik untuk mengevaluasi dampak training terhadap performa sales be
 
 ## Hasil
 Tidak ditemukan perubahan signifikan pada rata-rata transaksi setelah training (p-value > 0.05).
+
